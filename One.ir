@@ -13,14 +13,20 @@ protocol: NEC
 address: 08 00 00 00
 command: 9B 00 00 00
 # 
-name: Right
+name: Vol_up
 type: parsed
 protocol: NEC
 address: 08 00 00 00
-command: 9F 00 00 00
+command: 83 00 00 00
 # 
-name: Left
+name: Vol_down
 type: parsed
 protocol: NEC
 address: 08 00 00 00
-command: 97 00 00 00
+command: 86 00 00 00
+# 
+name: Vga
+type: parsed
+protocol: NEC
+address: 08 00 00 00
+command: D2 00 00 00
