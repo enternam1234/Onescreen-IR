@@ -1,0 +1,248 @@
+Filetype: IR signals file
+Version: 1
+# 
+name: Power
+type: parsed
+protocol: NEC
+address: 08 00 00 00
+command: D7 00 00 00
+# 
+name: Mute
+type: parsed
+protocol: NEC
+address: 08 00 00 00
+command: DF 00 00 00
+# 
+name: 1
+type: parsed
+protocol: NEC
+address: 08 00 00 00
+command: 95 00 00 00
+# 
+name: 2
+type: parsed
+protocol: NEC
+address: 08 00 00 00
+command: 99 00 00 00
+# 
+name: 3
+type: parsed
+protocol: NEC
+address: 08 00 00 00
+command: 9D 00 00 00
+# 
+name: 4
+type: parsed
+protocol: NEC
+address: 08 00 00 00
+command: D6 00 00 00
+# 
+name: 5
+type: parsed
+protocol: NEC
+address: 08 00 00 00
+command: DA 00 00 00
+# 
+name: 6
+type: parsed
+protocol: NEC
+address: 08 00 00 00
+command: DE 00 00 00
+# 
+name: 7
+type: parsed
+protocol: NEC
+address: 08 00 00 00
+command: 96 00 00 00
+# 
+name: 8
+type: parsed
+protocol: NEC
+address: 08 00 00 00
+command: 9A 00 00 00
+# 
+name: 9
+type: parsed
+protocol: NEC
+address: 08 00 00 00
+command: 9E 00 00 00
+# 
+name: Alt_tab
+type: parsed
+protocol: NEC
+address: 08 00 00 00
+command: 93 00 00 00
+# 
+name: 0
+type: parsed
+protocol: NEC
+address: 08 00 00 00
+command: D9 00 00 00
+# 
+name: Alt_f4
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 9164 4358 706 429 600 536 599 536 599 1645 600 536 600 535 600 535 600 535 600 1644 600 1643 601 1643 601 533 602 1643 627 1618 627 1618 627 1619 625 1622 622 537 598 1648 597 1648 596 1648 597 539 596 1649 596 1649 596 539 596 1649 595 540 595 540 595 540 595 1649 596 540 595 539 596 39785 9076 2201 620
+# 
+name: Pgup
+type: parsed
+protocol: NEC
+address: 08 00 00 00
+command: 81 00 00 00
+# 
+name: Pgdn
+type: parsed
+protocol: NEC
+address: 08 00 00 00
+command: 82 00 00 00
+# 
+name: Reset
+type: parsed
+protocol: NEC
+address: 08 00 00 00
+command: 87 00 00 00
+# 
+name: Os
+type: parsed
+protocol: NEC
+address: 08 00 00 00
+command: 8B 00 00 00
+# 
+name: Annotaion
+type: parsed
+protocol: NEC
+address: 08 00 00 00
+command: 8F 00 00 00
+# 
+name: Up
+type: parsed
+protocol: NEC
+address: 08 00 00 00
+command: 92 00 00 00
+# 
+name: Down
+type: parsed
+protocol: NEC
+address: 08 00 00 00
+command: D8 00 00 00
+# 
+name: Enter
+type: parsed
+protocol: NEC
+address: 08 00 00 00
+command: 9B 00 00 00
+# 
+name: Left
+type: parsed
+protocol: NEC
+address: 08 00 00 00
+command: 97 00 00 00
+# 
+name: Right
+type: parsed
+protocol: NEC
+address: 08 00 00 00
+command: 9F 00 00 00
+# 
+name: Whiteboard
+type: parsed
+protocol: NEC
+address: 08 00 00 00
+command: DB 00 00 00
+# 
+name: Exit
+type: parsed
+protocol: NEC
+address: 08 00 00 00
+command: DC 00 00 00
+# 
+name: Input
+type: parsed
+protocol: NEC
+address: 08 00 00 00
+command: C3 00 00 00
+# 
+name: Menu
+type: parsed
+protocol: NEC
+address: 08 00 00 00
+command: D4 00 00 00
+# 
+name: Sleep
+type: parsed
+protocol: NEC
+address: 08 00 00 00
+command: C0 00 00 00
+# 
+name: Vol_up
+type: parsed
+protocol: NEC
+address: 08 00 00 00
+command: 83 00 00 00
+# 
+name: Vol_dn
+type: parsed
+protocol: NEC
+address: 08 00 00 00
+command: 86 00 00 00
+# 
+name: Ch_up
+type: parsed
+protocol: NEC
+address: 08 00 00 00
+command: 80 00 00 00
+# 
+name: Ch_dn
+type: parsed
+protocol: NEC
+address: 08 00 00 00
+command: 8E 00 00 00
+# 
+name: Pc
+type: parsed
+protocol: NEC
+address: 08 00 00 00
+command: D3 00 00 00
+# 
+name: Vga
+type: parsed
+protocol: NEC
+address: 08 00 00 00
+command: D2 00 00 00
+# 
+name: Hdmi
+type: parsed
+protocol: NEC
+address: 08 00 00 00
+command: D1 00 00 00
+# 
+name: Media
+type: parsed
+protocol: NEC
+address: 08 00 00 00
+command: D0 00 00 00
+# 
+name: Sleep
+type: parsed
+protocol: NEC
+address: 08 00 00 00
+command: D5 00 00 00
+# 
+name: Display
+type: parsed
+protocol: NEC
+address: 08 00 00 00
+command: 8A 00 00 00
+# 
+name: P_mode
+type: parsed
+protocol: NEC
+address: 08 00 00 00
+command: C2 00 00 00
+# 
+name: S_mode
+type: parsed
+protocol: NEC
+address: 08 00 00 00
+command: C1 00 00 00
